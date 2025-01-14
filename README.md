@@ -95,4 +95,5 @@ The dataset includes:
 1. Clone the repository:
    ```bash
    git clone https://github.com/JaskaranSingh0/UHI-Mitigation.git
-   cd uhi-chandigarh
+   cd uhi-mitigation
+   
