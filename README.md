@@ -12,9 +12,7 @@ This repository provides a comprehensive analysis and solution for mitigating th
 4. [Technologies Used](#technologies-used)
 5. [Key Features](#key-features)
 6. [Usage Instructions](#usage-instructions)
-7. [Results and Insights](#results-and-insights)
-8. [Future Work](#future-work)
-9. [Contributors](#contributors)
+
 
 ---
 
